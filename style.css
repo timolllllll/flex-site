@@ -68,6 +68,12 @@
     margin-bottom: 13px;
 }
 
+.header-title {
+    margin-top: 110px;
+    margin-bottom: 80px;
+    position: relative;
+}
+
 .header-title-text {
     font-size: 90px;
     font-weight: bold;
